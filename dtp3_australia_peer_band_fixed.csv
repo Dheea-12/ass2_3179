@@ -1,0 +1,257 @@
+Country,Year,Coverage,Rank,Is_Australia
+Finland,2010.0,99.0,7,False
+Greece,2010.0,99.0,9,False
+Poland,2010.0,99.0,11,False
+Spain,2010.0,97.0,15,False
+Japan,2010.0,97.0,16,False
+Netherlands (Kingdom of the),2010.0,97.0,17,False
+Slovenia,2010.0,96.0,18,False
+Iceland,2010.0,96.0,19,False
+Italy,2010.0,96.0,20,False
+Germany,2010.0,96.0,21,False
+United States of America,2010.0,95.0,23,False
+Lithuania,2010.0,95.0,24,False
+United Kingdom of Great Britain and Northern Ireland,2010.0,94.0,27,False
+Ireland,2010.0,94.0,28,False
+Australia,2010.0,92.0,31,True
+Canada,2010.0,89.0,35,False
+Finland,2011.0,99.0,7,False
+Greece,2011.0,99.0,9,False
+Poland,2011.0,99.0,11,False
+Spain,2011.0,97.0,14,False
+Japan,2011.0,97.0,15,False
+Netherlands (Kingdom of the),2011.0,97.0,16,False
+United States of America,2011.0,96.0,19,False
+Slovenia,2011.0,96.0,20,False
+Italy,2011.0,96.0,22,False
+United Kingdom of Great Britain and Northern Ireland,2011.0,95.0,23,False
+Iceland,2011.0,95.0,24,False
+Ireland,2011.0,95.0,25,False
+Germany,2011.0,95.0,26,False
+Australia,2011.0,92.0,31,True
+Lithuania,2011.0,92.0,34,False
+Canada,2011.0,87.0,37,False
+Finland,2012.0,99.0,9,False
+Greece,2012.0,99.0,11,False
+Poland,2012.0,99.0,13,False
+Italy,2012.0,97.0,16,False
+Japan,2012.0,97.0,17,False
+Netherlands (Kingdom of the),2012.0,97.0,18,False
+Slovenia,2012.0,96.0,20,False
+Spain,2012.0,96.0,21,False
+United Kingdom of Great Britain and Northern Ireland,2012.0,95.0,22,False
+Ireland,2012.0,95.0,23,False
+Germany,2012.0,95.0,24,False
+United States of America,2012.0,94.0,28,False
+Lithuania,2012.0,93.0,30,False
+Australia,2012.0,92.0,32,True
+Canada,2012.0,91.0,33,False
+Iceland,2012.0,89.0,37,False
+Greece,2013.0,99.0,6,False
+Poland,2013.0,99.0,8,False
+Finland,2013.0,98.0,12,False
+Netherlands (Kingdom of the),2013.0,97.0,14,False
+Spain,2013.0,96.0,17,False
+Ireland,2013.0,96.0,18,False
+Italy,2013.0,96.0,20,False
+Japan,2013.0,96.0,21,False
+United Kingdom of Great Britain and Northern Ireland,2013.0,95.0,22,False
+Slovenia,2013.0,95.0,23,False
+United States of America,2013.0,94.0,26,False
+Lithuania,2013.0,93.0,30,False
+Germany,2013.0,93.0,31,False
+Australia,2013.0,91.0,33,True
+Canada,2013.0,91.0,34,False
+Iceland,2013.0,91.0,35,False
+Greece,2014.0,99.0,6,False
+Finland,2014.0,98.0,9,False
+Poland,2014.0,98.0,10,False
+Spain,2014.0,97.0,15,False
+Ireland,2014.0,96.0,17,False
+Japan,2014.0,96.0,18,False
+Netherlands (Kingdom of the),2014.0,96.0,19,False
+United Kingdom of Great Britain and Northern Ireland,2014.0,95.0,20,False
+United States of America,2014.0,95.0,21,False
+Slovenia,2014.0,95.0,23,False
+Italy,2014.0,95.0,25,False
+Lithuania,2014.0,93.0,28,False
+Germany,2014.0,93.0,29,False
+Australia,2014.0,92.0,32,True
+Canada,2014.0,91.0,35,False
+Iceland,2014.0,90.0,36,False
+Greece,2015.0,99.0,4,False
+Poland,2015.0,98.0,7,False
+Spain,2015.0,97.0,12,False
+Finland,2015.0,97.0,14,False
+Japan,2015.0,96.0,17,False
+United Kingdom of Great Britain and Northern Ireland,2015.0,95.0,19,False
+United States of America,2015.0,95.0,20,False
+Slovenia,2015.0,95.0,22,False
+Ireland,2015.0,95.0,23,False
+Netherlands (Kingdom of the),2015.0,95.0,25,False
+Australia,2015.0,93.0,30,True
+Lithuania,2015.0,93.0,31,False
+Italy,2015.0,93.0,32,False
+Germany,2015.0,93.0,33,False
+Iceland,2015.0,92.0,34,False
+Canada,2015.0,91.0,36,False
+Japan,2016.0,99.0,3,False
+Greece,2016.0,99.0,4,False
+Poland,2016.0,98.0,10,False
+Spain,2016.0,97.0,13,False
+United States of America,2016.0,95.0,19,False
+Ireland,2016.0,95.0,21,False
+Netherlands (Kingdom of the),2016.0,95.0,23,False
+United Kingdom of Great Britain and Northern Ireland,2016.0,94.0,25,False
+Australia,2016.0,94.0,26,True
+Slovenia,2016.0,94.0,27,False
+Lithuania,2016.0,94.0,28,False
+Italy,2016.0,94.0,30,False
+Finland,2016.0,92.0,32,False
+Canada,2016.0,91.0,34,False
+Iceland,2016.0,91.0,35,False
+Germany,2016.0,91.0,36,False
+Japan,2017.0,99.0,4,False
+Greece,2017.0,99.0,5,False
+Poland,2017.0,96.0,19,False
+Australia,2017.0,95.0,20,True
+Spain,2017.0,95.0,21,False
+Ireland,2017.0,95.0,22,False
+Italy,2017.0,95.0,23,False
+United Kingdom of Great Britain and Northern Ireland,2017.0,94.0,25,False
+United States of America,2017.0,94.0,26,False
+Slovenia,2017.0,94.0,27,False
+Lithuania,2017.0,94.0,28,False
+Netherlands (Kingdom of the),2017.0,94.0,29,False
+Canada,2017.0,91.0,32,False
+Germany,2017.0,91.0,33,False
+Iceland,2017.0,89.0,34,False
+Finland,2017.0,89.0,35,False
+Greece,2018.0,99.0,5,False
+Japan,2018.0,98.0,10,False
+Spain,2018.0,96.0,17,False
+Australia,2018.0,95.0,20,True
+Italy,2018.0,95.0,21,False
+Poland,2018.0,95.0,23,False
+United Kingdom of Great Britain and Northern Ireland,2018.0,94.0,24,False
+United States of America,2018.0,94.0,25,False
+Ireland,2018.0,94.0,26,False
+Slovenia,2018.0,93.0,27,False
+Netherlands (Kingdom of the),2018.0,93.0,28,False
+Lithuania,2018.0,92.0,31,False
+Canada,2018.0,91.0,32,False
+Iceland,2018.0,91.0,33,False
+Finland,2018.0,91.0,34,False
+Germany,2018.0,91.0,35,False
+Greece,2019.0,99.0,5,False
+Japan,2019.0,98.0,11,False
+Italy,2019.0,96.0,19,False
+Australia,2019.0,95.0,20,True
+Slovenia,2019.0,95.0,21,False
+Spain,2019.0,95.0,22,False
+Poland,2019.0,95.0,24,False
+United States of America,2019.0,94.0,25,False
+Ireland,2019.0,94.0,26,False
+Netherlands (Kingdom of the),2019.0,94.0,27,False
+United Kingdom of Great Britain and Northern Ireland,2019.0,93.0,28,False
+Iceland,2019.0,93.0,29,False
+Lithuania,2019.0,92.0,30,False
+Canada,2019.0,91.0,33,False
+Finland,2019.0,91.0,34,False
+Germany,2019.0,91.0,35,False
+Greece,2020.0,99.0,5,False
+Japan,2020.0,96.0,18,False
+Australia,2020.0,95.0,20,True
+Slovenia,2020.0,95.0,21,False
+Spain,2020.0,94.0,22,False
+Ireland,2020.0,94.0,23,False
+Italy,2020.0,94.0,24,False
+Netherlands (Kingdom of the),2020.0,94.0,25,False
+Poland,2020.0,94.0,26,False
+United Kingdom of Great Britain and Northern Ireland,2020.0,93.0,27,False
+United States of America,2020.0,93.0,28,False
+Iceland,2020.0,93.0,29,False
+Canada,2020.0,92.0,30,False
+Lithuania,2020.0,91.0,33,False
+Germany,2020.0,91.0,34,False
+Finland,2020.0,89.0,36,False
+Japan,2021.0,99.0,5,False
+Greece,2021.0,99.0,6,False
+Australia,2021.0,95.0,18,True
+Netherlands (Kingdom of the),2021.0,95.0,19,False
+United States of America,2021.0,94.0,21,False
+Ireland,2021.0,94.0,23,False
+Italy,2021.0,94.0,24,False
+Poland,2021.0,94.0,25,False
+United Kingdom of Great Britain and Northern Ireland,2021.0,93.0,26,False
+Spain,2021.0,93.0,27,False
+Canada,2021.0,92.0,28,False
+Iceland,2021.0,92.0,29,False
+Germany,2021.0,92.0,30,False
+Lithuania,2021.0,90.0,33,False
+Finland,2021.0,89.0,35,False
+Slovenia,2021.0,86.0,36,False
+Japan,2022.0,99.0,3,False
+Greece,2022.0,98.0,10,False
+Spain,2022.0,95.0,17,False
+Italy,2022.0,95.0,19,False
+United States of America,2022.0,94.0,21,False
+Australia,2022.0,94.0,22,True
+Poland,2022.0,94.0,24,False
+Ireland,2022.0,93.0,25,False
+Netherlands (Kingdom of the),2022.0,93.0,26,False
+United Kingdom of Great Britain and Northern Ireland,2022.0,92.0,27,False
+Canada,2022.0,92.0,28,False
+Iceland,2022.0,92.0,30,False
+Finland,2022.0,91.0,31,False
+Lithuania,2022.0,90.0,32,False
+Slovenia,2022.0,89.0,33,False
+Germany,2022.0,89.0,34,False
+Japan,2023.0,98.0,10,False
+Italy,2023.0,95.0,18,False
+Greece,2023.0,95.0,19,False
+Poland,2023.0,95.0,20,False
+United States of America,2023.0,94.0,21,False
+Australia,2023.0,94.0,22,True
+Spain,2023.0,93.0,24,False
+Ireland,2023.0,93.0,25,False
+United Kingdom of Great Britain and Northern Ireland,2023.0,92.0,26,False
+Canada,2023.0,92.0,27,False
+Iceland,2023.0,92.0,28,False
+Netherlands (Kingdom of the),2023.0,92.0,29,False
+Finland,2023.0,91.0,31,False
+Lithuania,2023.0,90.0,32,False
+Slovenia,2023.0,89.0,33,False
+Germany,2023.0,89.0,34,False
+Japan,2024.0,99.0,3,False
+Greece,2024.0,95.0,18,False
+United States of America,2024.0,94.0,20,False
+Spain,2024.0,94.0,21,False
+Iceland,2024.0,94.0,22,False
+Italy,2024.0,94.0,23,False
+Poland,2024.0,94.0,24,False
+Australia,2024.0,93.0,25,True
+United Kingdom of Great Britain and Northern Ireland,2024.0,92.0,26,False
+Canada,2024.0,92.0,27,False
+Ireland,2024.0,92.0,28,False
+Finland,2024.0,91.0,29,False
+Netherlands (Kingdom of the),2024.0,91.0,30,False
+Slovenia,2024.0,90.0,31,False
+Lithuania,2024.0,89.0,32,False
+Germany,2024.0,89.0,33,False
+Italy,2025.0,95.0,18,False
+United States of America,2025.0,94.0,19,False
+Greece,2025.0,94.0,20,False
+Poland,2025.0,94.0,21,False
+Spain,2025.0,93.0,22,False
+United Kingdom of Great Britain and Northern Ireland,2025.0,92.0,23,False
+Australia,2025.0,92.0,24,True
+Canada,2025.0,92.0,25,False
+Finland,2025.0,92.0,26,False
+Japan,2025.0,91.0,27,False
+Slovenia,2025.0,90.0,28,False
+Iceland,2025.0,90.0,29,False
+Ireland,2025.0,90.0,30,False
+Netherlands (Kingdom of the),2025.0,90.0,31,False
+Lithuania,2025.0,89.0,32,False
+Germany,2025.0,89.0,33,False
